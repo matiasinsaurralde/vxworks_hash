@@ -1,4 +1,4 @@
-require 'vxworks_collide'
+require './vxworks_collide'
 
 if ARGV.empty?
   puts 'usage: find_collision.rb lookup.txt RcQbRbzRyc'
